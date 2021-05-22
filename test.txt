@@ -1,6 +1,1 @@
-<<<<<<< HEAD
-hello guys
-=======
-hello world
->>>>>>> 7b2662f03f414339adbfbb019b47b0a02a630974 
-hello hello 
+edited by houda 
